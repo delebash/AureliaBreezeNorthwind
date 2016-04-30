@@ -18,6 +18,5 @@ webpackbootstrap(function (aurelia) {
   aurelia.start().then(a => a.setRoot('app', document.body))
     .then(a => {
       // Initialize any frameworks you want to use
-      //$(document).materialize();
     });
 });
