@@ -30,7 +30,7 @@ export class App {
 
   navigationComplete(navigationInstruction) {
     // Enable the materialize "waves" effect on the new page.
-    Waves.displayEffect()
+   // Waves.displayEffect()
 
     // Track page-views with google-analytics.
    // ga('send', 'pageview', '/' + navigationInstruction.fragment);
